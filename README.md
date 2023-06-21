@@ -14,4 +14,4 @@ This repository is split into the following:
 
 
 Additional information:
-Elmer: Exploring Locality Metadata by Encapsulating Representation
+Elmer: Exploring Locality Metadata by Elmer Representation
