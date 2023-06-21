@@ -1,4 +1,4 @@
-# Pseudo-spatial visualisation (Elmer)
+# Pseudo-spatial visualisation of scRNAseq data (Elmer)
 
 This repository contains information about visulaising counts based information data through free form polygons. 
 
