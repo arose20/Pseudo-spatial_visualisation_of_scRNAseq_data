@@ -1,16 +1,17 @@
-# Elmer visualisation
-
-Elmer: Exploring Locality Metadata by Encapsulating Representation
-
+# Pseudo-spatial visualisation (Elmer)
 
 This repository contains information about visulaising counts based information data through free form polygons. 
 
-Please look at the following:
-- Excel example
-- Fiji guide for mask generation
-- Plotly notebook using functions defined in python scipt for mask generation through an inline notebook 
-- Adapter script for python visualisation 
-- Python visualisation notebook using matploltib
-- Python visualisation notebook using plotly
+This repository is split into the following:
+1. Mask generation
+    - Options to generate masks in a common co-ordinate framework using either Fiji or Plotly
+2. Combine single cell data and masks
+    - Adapter notebook to combine the masks and single cell data together (will also work for sci-adifa-elmer web atlas platform)
+3. Local visualisation
+    - Options to plot the pseudo-spatial visualisation using matplotlib or plotly
 
-Output from the adapter scipt can also be pushed into the sci-elmer-adifa repo to generate your own adifa style web portal for scRNA-seq data
+
+
+
+Additional information:
+Elmer: Exploring Locality Metadata by Encapsulating Representation
