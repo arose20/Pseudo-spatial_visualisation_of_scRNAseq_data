@@ -1,4 +1,4 @@
-# Pseudo-spatial visualisation of scRNAseq data (Elmer)
+# Pseudo-spatial visualisation of scRNAseq data
 
 This repository contains information about visulaising counts based information data through free form polygons. 
 
@@ -9,9 +9,3 @@ This repository is split into the following:
     - Adapter notebook to combine the masks and single cell data together (will also work for sci-adifa-elmer web atlas platform)
 3. Local visualisation
     - Options to plot the pseudo-spatial visualisation using matplotlib or plotly
-
-
-
-
-Additional information:
-Elmer: Exploring Locality Metadata by Elmer Representation
