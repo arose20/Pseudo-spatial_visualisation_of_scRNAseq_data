@@ -1,6 +1,6 @@
 # Pseudo-spatial visualisation of scRNAseq data
 
-This repository contains information about visulaising counts based information data through free form polygons. 
+This repository contains information about visulaising counts based information data (in this case scRNAseq data) through free form polygons. 
 
 This repository is split into the following:
 1. Mask generation
