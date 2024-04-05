@@ -9,3 +9,5 @@ This repository is split into the following:
     - Adapter notebook to combine the masks and single cell data together (will also work for sci-adifa-elmer web atlas platform)
 3. Local visualisation
     - Options to plot the pseudo-spatial visualisation using matplotlib or plotly
+
+For online visualisation please visit: [https://github.com/arose20/sci-adifa-elmer](https://github.com/arose20/sci-adifa-elmer)
