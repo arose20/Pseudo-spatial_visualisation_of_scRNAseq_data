@@ -6,7 +6,13 @@ For online visualisation please visit: [https://github.com/arose20/sci-adifa-elm
 
 ## Example workflow
 
-Below is an abstract worklow of how this visualisation can work for single cell data.
+Below is an example abstract workflow of how this visualisation can work for single cell data.
+
+Note, this visualisation doesn't require any spatial information / change to protocol for scRNA-seq generation if instead want to use masks for different metadata instead such as donor, age, sex, location etc. 
+
+This example just suggests how you could implement some physical spatial metadata into the scRNA-seq protocol (designed for non-spatial specific scRNA-seq data).
+
+The image can be whatever the user can draw and link individual data points to, treating it like it had a spatial image or any other representative image(s).
 
 ![https://github.com/ar32/Pseudo-spaital_visualisation_of_scRNAseq_data/resources/pseudo_spatial_example_workflow.png](https://github.com/arose20/Pseudo-spatial_visualisation_of_scRNAseq_data/blob/main/resources/pseudo_spatial_example_workflow.png)
 
@@ -22,16 +28,20 @@ Current options for how to use this visualisation:
 - Plot completely manual values for each section
 
 Additional features:
-- Turn individual masks on or off. This is useful for example if 1 section is overshadowing other sections too much
+- Turn individual masks on or off. This is useful for example if 1 or multiple section(s) is overshadowing other sections too much
 - Swap masks out depending on what image you want to use to represent the data
 - Change colourmap and scale bar range
+
+Note: this visualisation uses a counts matrix so this could be swapped out to represent different types of data such as protein
 
 ## Repository content
 This repository is split into the following:
 1. Mask generation
-    - Options to generate masks in a common co-ordinate framework using either Fiji or Plotly
+    - Options to generate masks in a common co-ordinate framework (CCF) using either Fiji or Plotly
+      
 2. Combine single cell data and masks
     - Adapter notebook to combine the masks and single cell data together (will also work for sci-adifa-elmer web atlas platform)
+      
 3. Local visualisation
     - Options to plot the pseudo-spatial visualisation using matplotlib or plotly
 
