@@ -8,7 +8,7 @@ For online visualisation please visit: [https://github.com/arose20/sci-adifa-elm
 
 Below is an abstract worklow of how this visualisation can work for single cell data.
 
-![workflow image](https://github.com/ar32/Pseudo-spaital_visualisation_of_scRNAseq_data/resources/pseudo_spatial_example_workflow.png)
+![https://github.com/ar32/Pseudo-spaital_visualisation_of_scRNAseq_data/resources/pseudo_spatial_example_workflow.png](https://github.com/arose20/Pseudo-spatial_visualisation_of_scRNAseq_data/blob/main/resources/pseudo_spatial_example_workflow.png)
 
 ## Repository content
 This repository is split into the following:
