@@ -14,7 +14,7 @@ This example just suggests how you could implement some physical spatial metadat
 
 The image can be whatever the user can draw and link individual data points to, treating it like it had a spatial image or any other representative image(s).
 
-![https://github.com/ar32/Pseudo-spaital_visualisation_of_scRNAseq_data/resources/pseudo_spatial_example_workflow.png](https://github.com/arose20/Pseudo-spatial_visualisation_of_scRNAseq_data/blob/main/resources/pseudo_spatial_example_workflow.png)
+![https://github.com/ar32/Pseudo-spaital_visualisation_of_scRNAseq_data/resources/pseudo_spatial_example_workflow.png](https://github.com/arose20/Pseudo-spatial_visualisation_of_scRNAseq_data/blob/main/resources/elmer_github_workflow.gif)
 
 ## Pseudo-spatial plotting options
 
