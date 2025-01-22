@@ -2,6 +2,8 @@
 
 This repository contains information about visulaising counts based information data (in this case scRNAseq data) through free form polygons.
 
+This visualisation is also termed ELMER visualisation.
+
 For online visualisation please visit: [https://github.com/arose20/sci-adifa-elmer](https://github.com/arose20/sci-adifa-elmer)
 
 ## Example workflow
