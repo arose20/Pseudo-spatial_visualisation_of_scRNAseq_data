@@ -18,6 +18,8 @@ This example just suggests how you could implement some physical spatial metadat
 
 The image can be whatever the user can draw and link individual data points to, treating it like it had a spatial image or any other representative image(s).
 
+<b>The resolution of this visualisation will be at the same level of metadata resolution provided for masks i.e. could be very broad (e.g. country) or very refined (e.g. celltype) depending on the granularity of metadata using</b>
+
 ![https://github.com/ar32/Pseudo-spaital_visualisation_of_scRNAseq_data/resources/pseudo_spatial_example_workflow.png](https://github.com/arose20/Pseudo-spatial_visualisation_of_scRNAseq_data/blob/main/resources/elmer_github_workflow.gif)
 
 ## Pseudo-spatial plotting options
